@@ -23,5 +23,9 @@ the simulation waveform showing below
 
 ![image](https://user-images.githubusercontent.com/72481400/98443803-cf4e5c80-2133-11eb-975e-097f68dbda61.png)
 
-link of eda playground
+link of eda playground for verilog 
 https://www.edaplayground.com/x/6r9f
+
+link of eda playground for sv 
+https://www.edaplayground.com/x/ekAt
+
